@@ -1,0 +1,5 @@
+wechat:
+  wait_time: 1
+  queries:
+    - 腾讯技术工程
+    - Linux内核之旅
